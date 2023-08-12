@@ -4,4 +4,4 @@
 - Hyped about automation
 - Into sitcoms
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hahuaz)](https://github.com/hahuaz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hahuaz)](https://github.com/hahuaz/README.md)
